@@ -1,1 +1,1 @@
-# ricomida
+# proyecto ricomida
