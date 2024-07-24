@@ -5,7 +5,7 @@
 Contexto:
 Un cliente ha solicitado la creación de una página web dedicada a la preparación de comidas y la muestra de recetas. La página debe ser atractiva, fácil de navegar y completamente responsiva, para que los usuarios puedan acceder a ella desde cualquier dispositivo, ya sea una computadora de escritorio, una tableta o un teléfono móvil. Además, el cliente requiere que la página incluya varias interacciones dinámicas que mejoren la experiencia del usuario, utilizando las tecnologías HTML, CSS, Bootstrap y jQuery.
 
-** Requisitos Específicos:**
+**Requisitos Específicos:**
 
 1. Estructura del sitio: Crear el esqueleto de la página web utilizando HTML, siguiendo una maqueta y una guía de estilos proporcionada.
 
